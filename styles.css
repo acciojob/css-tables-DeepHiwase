@@ -1,10 +1,10 @@
 /*  your css code here. If applicable */
 .cell {
-	padding: 8px;
-	border: 1px solid lightgray;
-	border-radius: 4px;
+	padding: 0.5rem;
+	border: 1px solid #ccc;
+	border-radius: 5px;
 }
 
 .table-body tr:nth-child(even) td {
-	background-color: whitesmoke;
+	background-color: #f2f2f2;
 }
